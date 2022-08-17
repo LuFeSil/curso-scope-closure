@@ -1,0 +1,20 @@
+{
+  "name": "curso-scope-closure",
+  "version": "1.0.0",
+  "description": "Curso de Closures y Scope en JS de Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuFeSil/curso-scope-closure.git"
+  },
+  "keywords": [],
+  "author": "Luis F. Silgado <lfsilgado@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LuFeSil/curso-scope-closure/issues"
+  },
+  "homepage": "https://github.com/LuFeSil/curso-scope-closure#readme"
+}
